@@ -10,6 +10,6 @@
 - Game Engines: Unreal Engine, Unity.
 - Version Control: GitHub Desktop
 
-## ✉️ Contact
+## 🌐 Socials & Contacts
 
-<a href="mailto:eimizudev@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/email-%233d616b?style=for-the-badge&logo=gmail&logoColor=%2300bdf2"></a>
+<a href="https://mastodon.social/@Eimizudev"><img alt="Static Badge" src="https://img.shields.io/badge/Mastodon-%232c4349?style=for-the-badge&logo=mastodon&logoColor=%2300bdf2"></a> <a href="mailto:eimizudev@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-%232c4349?style=for-the-badge&logo=gmail&logoColor=%2300bdf2"></a>
