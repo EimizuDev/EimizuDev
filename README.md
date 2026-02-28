@@ -4,7 +4,7 @@
 
 ## ⚙️ Tech & Tools
 
-- Technologies: C++, C# (familiar), Javascript, HTML, CSS, Slang (HLSL).
+- Technologies: C++, C#, Javascript, HTML, CSS, Slang (HLSL).
 - Libs / APIs: Vulkan, Premake.
 - Embedded Systems: Arduino, ESP8266.
 - Game Engines: Unreal Engine, Unity.
